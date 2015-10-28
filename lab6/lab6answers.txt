@@ -1,0 +1,23 @@
+// Jeremy Wilder
+// Lab 6
+
+1) 		| 3	|     | 5 |	     | 7 |
+	1 2       3 4       5  6       7 8 9
+
+2) 1 2 3 4 5 6 7 8 9
+
+3) It is the constant K, at most each root will contain that amout, minimum of k/2
+
+4) It allows you to call the appropriate dump for the inherited class being called
+
+5) It's used to split the root, maintaining the size K
+		If it returns NULL it splits the root making new ones
+
+6) It splits the root and divides the children between them
+
+7) To show that it isn't actually being used, it lets the compiler know not to
+		search for the implementation code
+
+8) The good is it allows you to modify the code in a derived class
+
+	Scholars maintain the bad parts behind this method were lost long ago

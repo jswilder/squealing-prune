@@ -1,0 +1,12 @@
+Jeremy Wilder
+Lab 9
+
+Sort 1 = Quick sort - You could see that it grabbed a value *pivot* and then stored everything smaller on its left and everything larger to its right:: Once the data had been sorted on either side it printed out the final merged list
+
+Sort 2 = Insertion sort - Picks a value, sorts it, grabs the next from the right and sorts it, maintaining the sorted list at all times
+
+Sort 3 = Merge sort - The data was clearly divided into two groups, they stayed in the two separate groups until boths halves were sorted, they were then gmerged back together
+
+Sort 4 = Shell sort - On the first round the values switched were all equal distance from each other, following the same sequence. Compared values that were 8 apart, then 4, then 2, then 1
+
+Sort 5 = Heap sort - It finds the smallest value then removes it
